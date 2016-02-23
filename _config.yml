@@ -1,0 +1,28 @@
+name: valerio.it
+favicon: null
+layout_spectrum: 0.16534023056738079
+typography_spectrum: 0.10843142354860902
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.36839335900731385
+  lightness: 0.674511066172272
+  saturation: 0.23228683089837432
+  rhythmicContrast: 0.7235798016190529
+purpose: []
