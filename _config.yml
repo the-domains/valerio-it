@@ -1,6 +1,6 @@
 name: valerio.it
 favicon: null
-layout_spectrum: 0.16534023056738079
+layout_spectrum: 0.07362
 typography_spectrum: 0.10843142354860902
 title: Valerio Fioretti
 cta:
@@ -22,8 +22,8 @@ color:
     - '#00ffff'
     - '#00aaff'
     - '#00bfff'
-  brandStrength: 0.8125
+  brandStrength: 0.625
   lightness: 0.75
-  saturation: 0.23228683089837432
-  rhythmicContrast: 0.7235798016190529
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
